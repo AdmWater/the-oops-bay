@@ -48,9 +48,8 @@ docker run -d \
   -v /var/run/docker.sock:/var/run/docker.sock \
   -v ./oops-data:/app/data \
   medzhidovomar/the-oops-bay
-Docker Compose
-YAML
 ```
+
 docker-compose.yml
 ```yaml
 services:
